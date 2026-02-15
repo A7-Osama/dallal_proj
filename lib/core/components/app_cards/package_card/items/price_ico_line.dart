@@ -1,9 +1,9 @@
+import 'package:dallal_proj/core/components/app_cards/package_card/entities/package_type.dart';
 import 'package:dallal_proj/core/constants/app_texts.dart';
 import 'package:dallal_proj/core/theme/app_font_styles.dart';
 import 'package:dallal_proj/core/theme/app_font_styles_colorer.dart';
 import 'package:dallal_proj/core/utils/assets_data.dart';
 import 'package:dallal_proj/core/widgets/right_ico_line.dart';
-import 'package:dallal_proj/temp_try.dart';
 import 'package:flutter/material.dart';
 
 class PriceIcoLine extends StatelessWidget {
